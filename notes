@@ -1,0 +1,20 @@
+# full-stack-notes
+NETWORK - all resources (computer , mobile ) connected to each other 
+LAN - local area network (router of my house )
+MAN - metropolitan are network ( cities connected or states )
+WAN - wide area network ( countries connected)
+
+INTRNET -- submission of all smaller networks comes under internet(N1+N2+N3.... )
+
+IP ADDRESS -  identification name of computer or server you want o access or send request to 
+
+CLIENT -- the one who sends the request to the server  ( so that server performs the desired operations to be performed for the client) like  -- get, post , put , delete 
+
+SERVER -- the one who performs the operations (delete , create , edit )
+
+CLIENT -- laptop , mobile , app , CLI 
+SEVER -  DB  , file, app , web , email servers 
+
+
+request send – domain name to IP address find kara (kiss server ya kiss machine ko point kar rha hai )  - machine found – server respond the data
+
